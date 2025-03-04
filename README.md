@@ -13,3 +13,10 @@ Problem #700: Search in a Binary Search Tree
 Problem #701: Insert into a Binary Search Tree
 
 Problem #938: Range Sum of BST
+
+# Extra Credit 3: 
+Problem #144: Binary Tree Preorder Traversal
+
+Problem #145: Binary Tree Postorder Traversal
+
+Problem #1008: Construct Binary Search Tree from Preorder Traversal
