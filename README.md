@@ -20,3 +20,11 @@ Problem #144: Binary Tree Preorder Traversal
 Problem #145: Binary Tree Postorder Traversal
 
 Problem #1008: Construct Binary Search Tree from Preorder Traversal
+
+# Extra Credit 4:
+Problem #94: Binary Tree Inorder Traversal
+
+Problem #96: Unique Binary Search Trees
+
+Problem #226: Invert Binary Tree
+
