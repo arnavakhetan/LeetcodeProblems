@@ -28,3 +28,12 @@ Problem #96: Unique Binary Search Trees
 
 Problem #226: Invert Binary Tree
 
+# Extra Credit 5:
+Problem #215: Kth Largest Element in an Array
+
+Problem #703: Kth Largest Element in a Stream
+
+Problem #1046: Last Stone Weight
+
+
+
