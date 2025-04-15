@@ -35,5 +35,11 @@ Problem #703: Kth Largest Element in a Stream
 
 Problem #1046: Last Stone Weight
 
+# Extra Credit 6:
+Problem #802: Find Eventual Safe States
+
+Problem #997: Find the Town Judge
+
+Problem #1791: Find Center of Star Graph
 
 
