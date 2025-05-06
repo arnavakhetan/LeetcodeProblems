@@ -4,8 +4,8 @@ class Solution {
         String[] result = new String[words.length];
         for (String word : words) {
             int len = word.length();
-            int position = word.charAt(len - 1) - '1'; // Convert '1'-'9' to 0-8
-            result[position] = word.substring(0, len - 1); // Remove the digit
+            int position = word.charAt(len - 1) - '1'; 
+            result[position] = word.substring(0, len - 1); 
         }
         return String.join(" ", result);
     }
