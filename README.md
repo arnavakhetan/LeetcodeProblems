@@ -42,4 +42,9 @@ Problem #997: Find the Town Judge
 
 Problem #1791: Find Center of Star Graph
 
+# Extra Credit 7
+Problem #905: Sort Array by Parity
 
+Problem #912: Sort an Array
+
+Problem #1859: Sorting the Sentence
